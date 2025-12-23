@@ -21,7 +21,11 @@ Esta es un cúmulo de canales de Youtube y otros recursos útiles y gratis para 
 - Desarrollo móvil en Android e iOS con Kotlin y Swift, entre otras cosas.
 
 ### Sirve para:
-* Programación de Dispositivos Móviles
+* Programación de dispositivos Móviles
+* Git y Github
+* Bash/Terminal
+* Firebase
+* Java
 
 ## [TraversyMedia](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA) (Inglés)
 - Desarrollo web (front-end y back-end)
@@ -46,3 +50,27 @@ Esta es un cúmulo de canales de Youtube y otros recursos útiles y gratis para 
 
 ### Sirve para:
 * Bases de Datos II
+
+## [John Hammond](https://www.youtube.com/@_JohnHammond/videos) (Inglés)
+- Conocimientos básicos de hacking ético.
+
+### Sirve para:
+* Active Directory
+* Capture the Flag (CTF)
+* Ejercicios de TryHackMe y HackTheBox
+
+## [Low Level](https://www.youtube.com/@LowLevelTV/videos) (Inglés)
+- Análisis de malware con código y noticias de ciberseguridad.
+
+### Sirve para:
+* Programación de bajo nivel
+* Reverse engineering (Ingeniería inversa)
+* Noticias
+
+## [ASNetworking](https://www.youtube.com/@ASNetworking/videos) (Español)
+- Conceptos y curiosidades sobre redes y tecnologías de red
+
+### Sirve para:
+* Redes
+* Noticias
+* Hardware
